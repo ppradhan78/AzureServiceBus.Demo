@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AzureServiceBus.Demo/bin/Debug/net5.0
+/AzureServiceBus.Demo/obj
+/AzureServiceBus.ReciveMessageFromQueue/bin/Debug/net5.0
+/AzureServiceBus.ReciveMessageFromQueue/obj
+/ReadMessageToTopic/bin/Debug/net5.0
+/ReadMessageToTopic/obj
+/SendMessageToTopic/bin/Debug/net5.0
+/SendMessageToTopic/obj
